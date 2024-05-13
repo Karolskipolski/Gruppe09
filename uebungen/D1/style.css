@@ -1,0 +1,39 @@
+h1 {
+    font-size: 50px;
+}
+
+ol {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.border1 {
+    background-color: lightgreen;
+    padding: 1em;
+    margin: 1em;
+}
+
+.border2 {
+    background-color: aqua;
+    padding: 1em;
+    margin: 1em;
+}
+
+.border3 {
+    background-color: rgb(238, 144, 144);
+    padding: 1em;
+    margin: 1em;
+}
+
+.border4 {
+    background-color: rgb(85, 0, 255);
+    padding: 1em;
+    margin: 1em;
+}
+
+.body {
+    background-color: white;
+    padding: 1em;
+    margin: 1em;
+}

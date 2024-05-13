@@ -15,3 +15,5 @@ Netzwerk booten.
 Bei Punkt 3 ist die Tabelle leer und bei Punkt 5 ist sie gefüllt.
 
 ## Übung 2
+
+Wenn man nicht auf dem gewünschten Objekt landet, dann hat man das richtige Grid nicht angeklickt.

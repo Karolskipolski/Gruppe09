@@ -50,6 +50,9 @@ body {
 
 .product {
     text-align: center;
+    max-width: 50%;
+    padding: 0 20px;
+    
 }
 
 .product img {

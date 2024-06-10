@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Formular</title>
+</head>
+<body>
+
+<form action="/process-favorite-game" method="post">
+
+    <legend>Übung 1 - Radio- und Checkboxfelder</legend>
+
+    <label for="lieblingsspiel">Welches ist Ihr aktuelles Lieblingsspiel?</label><br>
+    <select id="lieblingsspiel" name="lieblingsspiel">
+        <option value="mw3">MW 3</option>
+        <option value="bo6">BO 6</option>
+        <option value="gta5">GTA 5</option>
+        <option value="fortnite">Fortnite</option>
+        <option value="lol">League of Legends</option>
+        <option value="csgo">CS:GO</option>
+        <option value="minecraft">Minecraft</option>
+        <option value="valorant">Valorant</option>
+        <option value="apex">Apex Legends</option>
+        <option value="fifa23">FIFA 23</option>
+    </select><br><br>
+
+    <label>Welche der folgenden Spiele spielen Sie regelmäßig?</label><br>
+    <input type="checkbox" id="mw3" name="spiele[]" value="mw3">
+    <label for="mw3">MW 3</label><br>
+    <input type="checkbox" id="bo6" name="spiele[]" value="bo6">
+    <label for="bo6">BO 6</label><br>
+    <input type="checkbox" id="gta5" name="spiele[]" value="gta5">
+    <label for="gta5">GTA 5</label><br>
+    <input type="checkbox" id="fortnite" name="spiele[]" value="fortnite">
+    <label for="fortnite">Fortnite</label><br>
+    <input type="checkbox" id="lol" name="spiele[]" value="lol">
+    <label for="lol">League of Legends</label><br>
+    <input type="checkbox" id="csgo" name="spiele[]" value="csgo">
+    <label for="csgo">CS:GO</label><br>
+    <input type="checkbox" id="minecraft" name="spiele[]" value="minecraft">
+    <label for="minecraft">Minecraft</label><br>
+    <input type="checkbox" id="valorant" name="spiele[]" value="valorant">
+    <label for="valorant">Valorant</label><br>
+    <input type="checkbox" id="apex" name="spiele[]" value="apex">
+    <label for="apex">Apex Legends</label><br>
+    <input type="checkbox" id="fifa23" name="spiele[]" value="fifa23">
+    <label for="fifa23">FIFA 23</label><br><br>
+
+    <input type="checkbox" id="keineSpiele" name="keineSpiele" value="keineSpiele">
+    <label for="keineSpiele">Ich spiele keine Spiele</label><br><br>
+
+    <input type="submit" value="Absenden">
+
+</form>
+
+</body>
+</html>

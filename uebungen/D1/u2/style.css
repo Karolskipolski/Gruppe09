@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0000ff; 
+}
+
+.color-box {
+    width: 90%;
+    height: 90%;
+    background: #00ffff; 
+    margin: 50px; 
+    border: 40px solid #ff0000; 
+    padding: 40px; 
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+}
+
+.color-box::before,
+.color-box::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.color-box::after {
+    margin: 40px; 
+    background: #ff00ff; 
+}

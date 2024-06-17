@@ -2,7 +2,7 @@
 
 1. CSS hat viel weniger Headerelement als JS
 
-2. Bei manchen Ports funktioniert es einwandfrei aber z.B. beim Port 23 gehts nicht
+2. Bei den beiden Ports 443 und 80 funktioniert es einwandfrei aber bei allen anderen nicht.
 
 3. Auf dieser Seite gibt es Anker in den Titeln z.B. man siehts wenn man über sie hovered, kommt ein link zeichen so eine Klammer.
 

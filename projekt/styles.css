@@ -26,6 +26,14 @@ section {
     padding: 0.3em;
 }
 
+sectionproducts {
+    display: grid;
+    color: azure;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 0.3em;
+    padding: 0.3em;
+}
+
 div {
     background-color: rgb(0, 0, 0);
     text-align: center;

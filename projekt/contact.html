@@ -4,49 +4,40 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
-    <title>Home</title>
+    <title>Contact</title>
   </head>
   <body>
-    <header>
-      <div><img src="logo.png" alt="logo" width="100px"/></div>
-      <a href="index.html"
-        ><div><p>HOME</p></div></a
-      >
-      <a href="products.html"
-        ><div><p>PRODUCTS</p></div></a
-      >
-      <a href="contact.html"
-        ><div><p>CONTACT</p></div></a
-      >
-      <a href="login.html"
-        ><div><img src="loginicon.png" alt="logo" width="100px" /></div
-      ></a>
-    </header>
+    <img src="logo.png" alt="logo" width="100px" />
+    <a href="index.html"><p>HOME</p></a>
+    <a href="products.html"><p>PRODUCTS</p></a>
+    <a href="contact.html"><p>CONTACT</p></a>
+    <a href="login.html"
+      ><img src="loginicon.png" alt="logo" width="100px"
+    /></a>
+    <h3>CONTACT</h3>
+    <form action="index.html">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required /><br /><br />
 
-    <section>
-      <div class="full">
-        <div class="contact-form">
-          <form action="submit_form.php" method="post">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required /><br /><br />
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required /><br /><br />
 
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required /><br /><br />
+      <label for="message">Message:</label><br />
+      <textarea
+        id="message"
+        name="message"
+        rows="6"
+        cols="50"
+        required
+      ></textarea
+      ><br /><br />
 
-            <label for="message">Message:</label><br />
-            <textarea
-              id="message"
-              name="message"
-              rows="6"
-              cols="50"
-              required
-            ></textarea
-            ><br /><br />
-
-            <input type="submit" value="Submit" />
-          </form>
-        </div>
-      </div>
-    </section>
+      <input type="submit" value="Login" />
+    </form>
+    <p>
+      Mail: support@fragrate.com <br />
+      Phone: 078 333 69 36 <br />
+      Socials: FRAG-RATE
+    </p>
   </body>
 </html>

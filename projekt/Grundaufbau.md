@@ -10,9 +10,13 @@ Hier ist das Wireframe für unser Projekt.
 
 # Styleguide
 
+### Farben
+
 Wir haben uns für die Farben Schwarz, Braun und Gelb/ Gold entschieden. Die Farben sind nicht 1 zu 1 gleich, aber sie sind ähnlich:
 
 ![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/83db1e45-7f6c-4882-b6fe-428827300b5f)
+
+### Logo
 
 Hier ist das Logo:
 

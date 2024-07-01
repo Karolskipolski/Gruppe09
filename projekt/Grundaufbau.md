@@ -7,3 +7,15 @@ Unsere Idee ist es, eine Parfüm Rating Webseite zu herstellen. Wir werden die f
 Hier ist das Wireframe für unser Projekt.
 
 ![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/05b18931-5adb-4183-90ca-83a569def560)
+
+# Styleguide
+
+Wir haben uns für die Farben Schwarz, Braun und Gelb/ Gold entschieden:
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/83db1e45-7f6c-4882-b6fe-428827300b5f)
+
+Hier ist das Logo:
+
+![logo](https://github.com/Karolskipolski/Gruppe09/assets/142780585/d90734f1-b075-4a3c-b64f-fc4a5cc42225)
+
+

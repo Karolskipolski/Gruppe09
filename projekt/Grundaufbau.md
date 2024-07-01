@@ -22,4 +22,24 @@ Hier ist das Logo:
 
 ![logo](https://github.com/Karolskipolski/Gruppe09/assets/142780585/d90734f1-b075-4a3c-b64f-fc4a5cc42225)
 
+### Typografie
+
+Für die Schrift haben wir die gefolgten angaben:
+
+#### Alle:
+
+color: azure;
+font-family: Arial, sans-serif;
+
+#### p
+
+font-size: 40px;
+
+#### h3
+
+font-size: 40px;
+
+#### a
+
+font-size: 30px;
 

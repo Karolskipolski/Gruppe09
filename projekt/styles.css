@@ -12,8 +12,13 @@
   border: 1px solid #070C0E;
 }
 
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
 p {
-  font-size: 40px;
+  font-size: 2.5vw; /* Adjust viewport width units for responsive sizing, approximating 40px on standard screens */
 }
 
 @media screen and (max-width: 768px) {
@@ -29,12 +34,12 @@ p {
 }
 
 a {
-  font-size: 30px;
+  font-size: 2vw; /* Make links responsive too */
   color: azure;
 }
 
 h3 {
-  font-size: 45px;
+  font-size: 3.5vw; /* Make headings responsive */
 }
 
 body {

@@ -17,3 +17,17 @@ Nachdem man jedoch Alles ausgefüllt hat, kommt man auf die Registrierungerfolgr
 # Login-Formular
 
 Im Login haben wir nur die Felder Name, Email und Password. Wir haben den gleichen Style genutzt wie beim Registrieren. Man kann sich durch die Figur rechts oben einloggen. Nachdem man sich eingelogt hat, kommt man zur Homepage.
+
+# Passwort vergessen-Formular
+
+Wir haben einen Text indem steht Forgot password mit dem man zur passwordrestore page kommt. 
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/04cf207b-25a8-4c44-b968-ae011daa842d)
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/83e325cf-f276-4dc7-bef4-e9fff8fdc37a)
+
+Nachdem, dass man Alles ausgefüllt hat, wird man auf die bestetigungs Seite weiter geleitet.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/b4a0244c-f5b7-4233-9247-7cd325b33bb6)
+
+

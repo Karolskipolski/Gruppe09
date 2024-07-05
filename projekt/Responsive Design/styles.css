@@ -6,10 +6,10 @@
 }
 
 .grid-item {
-  background-color: #070C0E;
+  background-color: #070c0e;
   padding: 20px;
   text-align: center;
-  border: 1px solid #070C0E;
+  border: 1px solid #070c0e;
 }
 
 .responsive-image {
@@ -19,18 +19,6 @@
 
 p {
   font-size: 2.5vw; /* Adjust viewport width units for responsive sizing, approximating 40px on standard screens */
-}
-
-@media screen and (max-width: 768px) {
-  .grid-container {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .grid-container {
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  }
 }
 
 a {
@@ -46,4 +34,129 @@ body {
   color: azure;
   background-color: #472a19;
   font-family: Arial, sans-serif;
+}
+
+#desktopMenu {
+  display: grid;
+}
+
+.respBurgerMenu {
+  display: none;
+}
+
+@media screen and (max-width: 1350px) {
+  #desktopMenu {
+    display: none;
+  }
+
+  .respBurgerMenu {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.35s, visibility 0.35s, height 0.35s;
+  overflow: hidden;
+  background: black;
+  z-index: -1;
+}
+
+#hamburger-input {
+  display: none;
+}
+
+#hamburger-menu {
+  position: fixed;
+  top: 60px;
+  width: 50px;
+  height: 50px;
+  display: none;
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(
+    to bottom,
+    azure,
+    azure 20%,
+    black 20%,
+    black 40%,
+    azure 40%,
+    azure 60%,
+    black 60%,
+    black 80%,
+    azure 80%,
+    azure 100%
+  );
+}
+
+#hamburger-menu #sidebar-menu {
+  visibilty: hidden;
+  position: fixed;
+  top: 0;
+  left: -250px;
+  width: 200px;
+  height: 100%;
+  background-color: #472a19;
+  transition: 0.3s;
+  padding: 0px 10px;
+  box-sizing: border-box;
+}
+
+#hamburger-menu h3 {
+  color: azure;
+  font-size: 2.2rem;
+}
+
+#hamburger-menu ul {
+  padding-left: 0px;
+}
+
+#hamburger-menu li {
+  list-style-type: none;
+  line-height: 3rem;
+}
+
+#hamburger-menu a {
+  color: azure;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+#hamburger-menu a:hover {
+  text-decoration: underline;
+}
+
+#hamburger-input:checked + #hamburger-menu #sidebar-menu {
+  visibility: visible;
+  left: 0;
+}
+#hamburger-input:checked ~ .overlay {
+  visibility: visible;
+  opacity: 0.4;
+}
+
+@media screen and (max-width: 1350px) {
+  #hamburger-menu {
+    display: inline;
+  }
 }

@@ -4,7 +4,8 @@ Wir haben die Responsiveness mit @Media eingebaut was recht einfach ist. Man mus
 
 ![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/01fff72d-8e5d-4b1b-940e-a9d215db0051)
 
-![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/dbc0d8de-b55c-402c-8772-75ce515eb5e1)
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/3a2265d8-a787-4af7-8bb4-d1026c5935e8)
+
 
 
 # Login-Formular

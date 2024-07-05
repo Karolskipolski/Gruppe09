@@ -52,3 +52,7 @@ Wie man schon sehen kann, haben wir das Template schon im Wireframe eingebaut au
 Hier sieht man, wie alles angeordnet wird mit den richtigen Inhalten. Wir benutzen ein Menschen als das Icon für die Loginpage.
 
 ![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/5f95e165-6536-47fa-9a4f-afc4f85427df)
+
+# Publikation
+
+Wir haben das Projekt mit einem FTP server publiziert. Wenn man [unsere Webseite](http://top5sidehustles.bplaced.net/projekt/) besucht kommt man direkt zur Homepage.

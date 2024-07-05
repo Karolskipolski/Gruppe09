@@ -43,3 +43,12 @@ font-size: 40px;
 
 font-size: 30px;
 
+# Template
+
+Wie man schon sehen kann, haben wir das Template schon im Wireframe eingebaut auch mit dem Grids und Allem drum und dran.
+
+# Inhaltsseiten
+
+Hier sieht man, wie alles angeordnet wird mit den richtigen Inhalten. Wir benutzen ein Menschen als das Icon für die Loginpage.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/5f95e165-6536-47fa-9a4f-afc4f85427df)

@@ -4,26 +4,31 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
-    <title>Login</title>
+    <title>Registration</title>
   </head>
   <body>
+    
     <div class="grid-container">
-      <div class="grid-item">
-        <a href="index.html"><img src="logo.png" alt="logo" width="100px" /></a>
-      </div>
-      <div class="grid-item">
-        <a href="index.html"><h5>HOME</h5></a>
-      </div>
-      <div class="grid-item">
-        <a href="products.html"><h5>PRODUCTS</h5></a>
-      </div>
-      <div class="grid-item">
-        <a href="contact.html"><h5>CONTACT</h5></a>
-      </div>
-      <div class="grid-item">
-        <a href="login.html"
-          ><img src="loginicon.png" alt="logo" width="100px"
-        /></a>
+      <div class="grid-container" style="background-color: #070c0e">
+        <div class="grid-item">
+          <a href="index.html"
+            ><img src="logo.png" alt="logo" width="100px"
+          /></a>
+        </div>
+        <div class="grid-item">
+          <a href="index.html"><h5>HOME</h5></a>
+        </div>
+        <div class="grid-item">
+          <a href="products.html"><h5>PRODUCTS</h5></a>
+        </div>
+        <div class="grid-item">
+          <a href="contact.html"><h5>CONTACT</h5></a>
+        </div>
+        <div class="grid-item">
+          <a href="login.html"
+            ><img src="loginicon.png" alt="logo" width="100px"
+          /></a>
+        </div>
       </div>
     </div>
 
@@ -36,10 +41,16 @@
     <div class="grid-container">
       <div class="grid-item">
         <form action="index.html">
-          <label for="gender">Gender:</label><br />
+          <label for="gender">Gender:</label>
           <input type="radio" id="male" name="gender" value="male" required />
-          <label for="male">Male</label><br />
-          <input type="radio" id="female" name="gender" value="female" required />
+          <label for="male">Male</label>
+          <input
+            type="radio"
+            id="female"
+            name="gender"
+            value="female"
+            required
+          />
           <label for="female">Female</label><br /><br />
 
           <label for="name">Name:</label>
@@ -62,10 +73,10 @@
           <label for="address">Address:</label>
           <input type="text" id="address" name="address" required /><br /><br />
 
-          <label for="plz">PLZ:</label>
+          <label for="plz">Postcode:</label>
           <input type="text" id="plz" name="plz" required /><br /><br />
 
-          <label for="ort">Ort:</label>
+          <label for="ort">Location:</label>
           <input type="text" id="ort" name="ort" required /><br /><br />
 
           <label for="country">Country:</label>
@@ -74,11 +85,11 @@
             <option value="switzerland">Switzerland</option>
             <option value="austria">Austria</option>
             <option value="france">France</option>
-            <option value="italy">Italy</option>
-          </select><br /><br />
+            <option value="italy">Italy</option></select
+          ><br /><br />
 
           <input type="checkbox" id="datenschutz" name="datenschutz" required />
-          <label for="datenschutz">Datenschutz akzeptieren</label><br /><br />
+          <label for="datenschutz">Accept privacy policy</label><br /><br />
 
           <input type="submit" value="Register" />
         </form>

@@ -8,6 +8,6 @@ Wir haben die Responsiveness mit @Media eingebaut was recht einfach ist. Man mus
 
 
 
-# Login-Formular
+# Responsive Site erstellen
 
-Im Login haben wir nur die Felder Name, Email und Password. Wir haben den gleichen Style genutzt wie beim Registrieren. Man kann sich durch die Figur rechts oben einloggen. Nachdem man sich eingelogt hat, kommt man zur Homepage.
+Wir haben uns darauf entschieden, dass wir eine Tablet und Handy ansicht machen. Aus diesem Grund haben wir auch zwei Media Annotations. Wir haben mit Grid-items gearbeitet was ähnlich ist wie das bootstrap framework. Es war sehr einfach Alles responsive zu machen das einzige schwierige war, den Header responsive zu machen.

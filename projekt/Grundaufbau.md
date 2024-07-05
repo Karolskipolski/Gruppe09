@@ -56,3 +56,9 @@ Hier sieht man, wie alles angeordnet wird mit den richtigen Inhalten. Wir benutz
 # Publikation
 
 Wir haben das Projekt mit einem FTP server publiziert. Wenn man [unsere Webseite](http://top5sidehustles.bplaced.net/projekt/) besucht kommt man direkt zur Homepage.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/91b7dc70-cb11-47ef-822c-617b0146a958)
+
+Wir konnten dies mit Filezilla erledigen mit einem einfachen drag and drop zum bplaced server.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/b4c29bf7-d9b9-4833-9124-924912dae963)

@@ -10,4 +10,7 @@ Wir haben die Responsiveness mit @Media eingebaut was recht einfach ist. Man mus
 
 # Responsive Site erstellen
 
-Wir haben uns darauf entschieden, dass wir eine Tablet und Handy ansicht machen. Aus diesem Grund haben wir auch zwei Media Annotations. Wir haben mit Grid-items gearbeitet was ähnlich ist wie das bootstrap framework. Es war sehr einfach Alles responsive zu machen das einzige schwierige war, den Header responsive zu machen.
+Wir haben uns darauf entschieden, dass wir eine Tablet und Handy ansicht machen. Aus diesem Grund haben wir auch zwei Media Annotations. Wir haben mit Grid-items gearbeitet was ähnlich ist wie das bootstrap framework. Es war sehr einfach Alles responsive zu machen das einzige schwierige war, den Header responsive zu machen. Am Schluss konnten wir es aber trotzdem schaffen und man hat ein Burgermenu.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/612b2133-f543-4212-8ae7-b538e13b3e20)
+

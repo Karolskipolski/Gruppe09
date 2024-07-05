@@ -1,18 +1,11 @@
-#  Registrierungsformular
+#  Styleguide Update
 
-Wir haben die Formulare simple gehlaten und haben am Style nichts verändert, weil sie schon zur Seite gepasst haben. Wir haben die obligatorischen Felder erstellt und so sieht jetzt das Formular aus.
+Wir haben die Responsiveness mit @Media eingebaut was recht einfach ist. Man muss nur die Bildschirmbreite auswählen und dann wird dieser Style übernommen. Wir hatten probleme, den Text resposive zu bekommen weswegen wir "vw" auch viewwidth genannt gebraucht haben. Dies ermöglichte uns den Text an jede Bildschirmbreite perfekt anzupassen. Für Bilder benötigt man max width= 100% was es einfach immer auf 100% ausspannt. Weil es in einem Grid ist, wird es parallel mit der Seite kleiner. 
 
-![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/e4a49a1a-507d-423c-b85a-79a3b56fa256)
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/01fff72d-8e5d-4b1b-940e-a9d215db0051)
 
-Wir haben bzw. drei verschiedene Seiten auf dennen wir Formulare benutzen Conatct und Login.
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/dbc0d8de-b55c-402c-8772-75ce515eb5e1)
 
-Alle Felder sind Pflichtfelder, dass heisst, dass man Alle Felder ausfühlen muss wie im Bild.
-
-![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/ad1d36f5-c168-4ac7-8877-147ab4ff8399)
-
-Nachdem man jedoch Alles ausgefüllt hat, kommt man auf die Registrierungerfolgreichseite. 
-
-![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/bf821e63-43c6-481b-940a-aabfaf855c89)
 
 # Login-Formular
 

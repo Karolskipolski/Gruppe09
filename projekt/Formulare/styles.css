@@ -1,0 +1,49 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 10px;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: #070C0E;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #070C0E;
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: 2.5vw; /* Adjust viewport width units for responsive sizing, approximating 40px on standard screens */
+}
+
+@media screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}
+
+a {
+  font-size: 2vw; /* Make links responsive too */
+  color: azure;
+}
+
+h3 {
+  font-size: 3.5vw; /* Make headings responsive */
+}
+
+body {
+  color: azure;
+  background-color: #472a19;
+  font-family: Arial, sans-serif;
+}

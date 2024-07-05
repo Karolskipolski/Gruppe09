@@ -1,0 +1,122 @@
+[
+  {
+      "id": 1,
+      "name": "Al Qiam Silver",
+      "brand": "Al Haramain",
+      "main_notes": ["Oud", "Rose", "Sandalwood"],
+      "picture": "https://example.com/al_qiam_silver.jpg",
+      "longevity": "8-10 hours"
+  },
+  {
+      "id": 2,
+      "name": "LV Imagination",
+      "brand": "Louis Vuitton",
+      "main_notes": ["Citrus", "Ginger", "Amber"],
+      "picture": "https://example.com/lv_imagination.jpg",
+      "longevity": "6-8 hours"
+  },
+  {
+      "id": 3,
+      "name": "Nautica Voyage",
+      "brand": "Nautica",
+      "main_notes": ["Apple", "Lotus", "Musk"],
+      "picture": "https://example.com/nautica_voyage.jpg",
+      "longevity": "4-6 hours"
+  },
+  {
+      "id": 4,
+      "name": "Bleu de Chanel",
+      "brand": "Chanel",
+      "main_notes": ["Grapefruit", "Dry Cedar", "Labdanum"],
+      "picture": "https://example.com/bleu_de_chanel.jpg",
+      "longevity": "7-9 hours"
+  },
+  {
+      "id": 5,
+      "name": "Acqua di Gio Profumo",
+      "brand": "Giorgio Armani",
+      "main_notes": ["Sea Notes", "Bergamot", "Incense"],
+      "picture": "https://example.com/acqua_di_gio_profumo.jpg",
+      "longevity": "8-10 hours"
+  },
+  {
+      "id": 6,
+      "name": "Tom Ford Noir",
+      "brand": "Tom Ford",
+      "main_notes": ["Vanilla", "Leather", "Amber"],
+      "picture": "https://example.com/tom_ford_noir.jpg",
+      "longevity": "9-11 hours"
+  },
+  {
+      "id": 7,
+      "name": "Dior Sauvage",
+      "brand": "Dior",
+      "main_notes": ["Pepper", "Bergamot", "Ambroxan"],
+      "picture": "https://example.com/dior_sauvage.jpg",
+      "longevity": "7-9 hours"
+  },
+  {
+      "id": 8,
+      "name": "Creed Aventus",
+      "brand": "Creed",
+      "main_notes": ["Pineapple", "Birch", "Musk"],
+      "picture": "https://example.com/creed_aventus.jpg",
+      "longevity": "8-10 hours"
+  },
+  {
+      "id": 9,
+      "name": "Versace Eros",
+      "brand": "Versace",
+      "main_notes": ["Mint", "Green Apple", "Tonka Bean"],
+      "picture": "https://example.com/versace_eros.jpg",
+      "longevity": "6-8 hours"
+  },
+  {
+      "id": 10,
+      "name": "YSL La Nuit de L'Homme",
+      "brand": "Yves Saint Laurent",
+      "main_notes": ["Cardamom", "Lavender", "Cedar"],
+      "picture": "https://example.com/ysl_la_nuit_de_lhomme.jpg",
+      "longevity": "7-9 hours"
+  },
+  {
+      "id": 11,
+      "name": "Gucci Guilty",
+      "brand": "Gucci",
+      "main_notes": ["Lavender", "Lemon", "Orange Blossom"],
+      "picture": "https://example.com/gucci_guilty.jpg",
+      "longevity": "5-7 hours"
+  },
+  {
+      "id": 12,
+      "name": "Prada Luna Rossa",
+      "brand": "Prada",
+      "main_notes": ["Lavender", "Bitter Orange", "Mint"],
+      "picture": "https://example.com/prada_luna_rossa.jpg",
+      "longevity": "6-8 hours"
+  },
+  {
+      "id": 13,
+      "name": "Jean Paul Gaultier Le Male",
+      "brand": "Jean Paul Gaultier",
+      "main_notes": ["Vanilla", "Mint", "Lavender"],
+      "picture": "https://example.com/jpg_le_male.jpg",
+      "longevity": "7-9 hours"
+  },
+  {
+      "id": 14,
+      "name": "Paco Rabanne 1 Million",
+      "brand": "Paco Rabanne",
+      "main_notes": ["Cinnamon", "Rose", "Leather"],
+      "picture": "https://example.com/paco_rabanne_1_million.jpg",
+      "longevity": "8-10 hours"
+  },
+  {
+      "id": 15,
+      "name": "Hugo Boss Bottled",
+      "brand": "Hugo Boss",
+      "main_notes": ["Apple", "Cinnamon", "Vanilla"],
+      "picture": "https://example.com/hugo_boss_bottled.jpg",
+      "longevity": "6-8 hours"
+  }
+]

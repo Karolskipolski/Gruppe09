@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Contact</title>
+  </head>
+  <body>
+
+    <div class="grid-container">
+      <div class="grid-container" style="background-color: #070c0e">
+        <div class="grid-item">
+          <a href="index.html"
+            ><img src="logo.png" alt="logo" width="100px"
+          /></a>
+        </div>
+
+        <div class="grid-item" id="desktopMenu">
+          <a href="index.html"><h5>HOME</h5></a>
+        </div>
+        <div class="grid-item" id="desktopMenu">
+          <a href="products.html"><h5>PRODUCTS</h5></a>
+        </div>
+        <div class="grid-item" id="desktopMenu">
+          <a href="contact.html"><h5>CONTACT</h5></a>
+        </div>
+        <div class="grid-item" id="desktopMenu">
+          <a href="login.html"
+            ><img src="loginicon.png" alt="logo" width="100px"
+          /></a>
+        </div>
+        <div class="respBurgerMenu">
+          <div class="grid-item">
+            <input type="checkbox" id="hamburger-input" class="burger-shower" />
+            <label id="hamburger-menu" for="hamburger-input">
+              <nav id="sidebar-menu">
+                <h3>MENU</h3>
+                <ul>
+                  <li><a href="index.html">HOME</a></li>
+                  <li><a href="products.html">PRODUCTS</a></li>
+                  <li><a href="contact.html">CONTACT</a></li>
+                  <li><a href="login.html">LOGIN</a></li>
+                </ul>
+              </nav>
+            </label>
+
+            <div class="overlay"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid-container">
+      <div class="grid-item">
+        <h3>CONTACT</h3>
+      </div>
+    </div>
+
+    <div class="grid-container">
+      <div class="grid-item">
+        <form action="index.html">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required /><br /><br />
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required /><br /><br />
+
+          <label for="message">Message:</label><br>
+          <textarea
+            id="message"
+            name="message"
+            rows="6"
+            cols="50"
+            required
+            style="width: 100%;"
+          ></textarea
+          ><br /><br />
+
+          <input type="submit" value="Send" />
+        </form>
+      </div>
+    </div>
+
+    <div class="grid-container">
+      <div class="grid-item">
+        <p>
+          Mail: support@fragrate.com <br />
+          Phone: 078 333 69 36 <br />
+          Socials: FRAG-RATE
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

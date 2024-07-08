@@ -30,4 +30,9 @@ Nachdem, dass man Alles ausgefüllt hat, wird man auf die bestetigungs Seite wei
 
 ![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/b4a0244c-f5b7-4233-9247-7cd325b33bb6)
 
+# Verbesserung
+
+Weil die Felder recht klein waren, haben wir sie grösser gemacht und es sieht jetzt ässtetischer aus.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/560378cd-3228-4110-abf7-4e4b28dc9f90)
 

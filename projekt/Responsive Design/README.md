@@ -1,6 +1,6 @@
 #  Styleguide Update
 
-Wir haben die Responsiveness mit @Media eingebaut was recht einfach ist. Man muss nur die Bildschirmbreite auswählen und dann wird dieser Style übernommen. Wir hatten probleme, den Text resposive zu bekommen weswegen wir "vw" auch viewwidth genannt gebraucht haben. Dies ermöglichte uns den Text an jede Bildschirmbreite perfekt anzupassen. Für Bilder benötigt man max width= 100% was es einfach immer auf 100% ausspannt. Weil es in einem Grid ist, wird es parallel mit der Seite kleiner. 
+Wir haben die Responsiveness mit @Media eingebaut was recht einfach ist. Man muss nur die Bildschirmbreite auswählen und dann wird dieser Style übernommen. Wir hatten probleme, den Text resposive zu bekommen weswegen wir "vw" auch viewwidth genannt gebraucht haben. Dies ermöglichte uns den Text an jede Bildschirmbreite perfekt anzupassen. Für Bilder benötigt man max width= 100% was es einfach immer auf 100% ausspannt. Weil es in einem Grid ist, wird es parallel mit der Seite kleiner. Dazu haben wir die break points bei viewwidth von 1350px, dass der Header zu einem Burgermenu sich verwandelt. Die Bilder sind nonstop zur Webseite responsive. Die Griditems verschieben sich bei viewwidth von 768px und 480px.
 
 ![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/01fff72d-8e5d-4b1b-940e-a9d215db0051)
 

@@ -120,7 +120,7 @@ button {
 }
 
 #hamburger-menu {
-  position: fixed;
+  position: absolute;
   top: 60px;
   width: 50px;
   height: 50px;

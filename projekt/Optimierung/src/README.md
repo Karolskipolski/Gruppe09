@@ -11,3 +11,15 @@ Nacher gings weiter an das minimieren der Inhalte. Dies taten wir mit minifier f
 Beim nächsten Schritt haben wir alle Bilder und Videos in einen Ordner versetzt damit wir Resourcen kopieren können. Mit diesem Script konnten wir dies ausführen.
 
 ![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/aacc0097-41ea-4019-a326-944687810bd7)
+
+# Automatisieren sie ihre Publikation
+
+Im nächsten Schritt haben wir ein FTP änliches File erstellt, dass die Parameter für das Publizieren braucht um den richtigen Server zu finden.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/ec0d3f79-a326-4e6a-8206-e5b676e83fca)
+
+Wir haben dann auch noch ein kleines Script im JS File gebraucht um es zu starten.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/e2c4078b-1baa-48dd-900b-937ab50fcfdf)
+
+Mit npm run build können wir Alles ausführen und automatisch publizieren.

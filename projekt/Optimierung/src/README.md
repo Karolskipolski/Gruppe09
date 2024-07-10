@@ -7,3 +7,7 @@ Am Anfang haben wir alle Files in den src ordner hinzugefügt damit wir die mini
 Nacher gings weiter an das minimieren der Inhalte. Dies taten wir mit minifier für HTML und CSS. Die minimierten Inhalte haben wir in den dist Ordner hinzugefügt. 
 
 ![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/108a221b-3c62-44ce-b607-f2236743a257)
+
+Beim nächsten Schritt haben wir alle Bilder und Videos in einen Ordner versetzt damit wir Resourcen kopieren können. Mit diesem Script konnten wir dies ausführen.
+
+![image](https://github.com/Karolskipolski/Gruppe09/assets/142780585/aacc0097-41ea-4019-a326-944687810bd7)
